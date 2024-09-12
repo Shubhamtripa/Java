@@ -3,6 +3,8 @@ package Array;
 
 import java.util.Scanner;
 
+//pull back
+
 public class Array1 {
 
 	public static void main(String[] args) {
